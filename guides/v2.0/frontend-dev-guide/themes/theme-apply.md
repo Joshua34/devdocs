@@ -39,7 +39,7 @@ To do this:
 
 ## Prerequisites 
 
-Make sure that you [set](#{{site.gdeurl}}config-guide/cli/config-cli-subcommands-mode.html) your Magento application to the developer [mode]({{site.gdeurl}}config-guide/bootstrap/magento-modes.html).
+Make sure that you [set]({{site.gdeurl}}config-guide/cli/config-cli-subcommands-mode.html) your Magento application to the developer [mode]({{site.gdeurl}}config-guide/bootstrap/magento-modes.html).
 
 
 ## Apply a theme {#theme-apply-apply}
